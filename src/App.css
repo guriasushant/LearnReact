@@ -1,0 +1,40 @@
+.studentForm{
+  text-align: center;
+  border: 2px solid red;
+  padding-bottom: 50px;
+}
+
+.errorMsg{
+  color: red;
+}
+
+sup{
+  color: red;
+}
+.btnGroup{
+  margin-top: 20px;
+}
+
+.submitBtn{
+  padding: 5px;
+  border-radius: 5px;
+  margin: 10px;
+  background-color: lightskyblue;
+  cursor: pointer;
+}
+
+.resetBtn{
+  padding: 5px;
+  border-radius: 5px;
+  margin: 10px;
+  background-color:lightskyblue;
+  cursor: pointer;
+}
+
+.row{
+  margin: 10px;
+}
+
+.noDisplay{
+  display: none;
+}
