@@ -1,0 +1,42 @@
+.container{
+    border: solid grey 3px;
+    border-radius: 5px;
+    display: flex;;
+    flex-direction: column;
+}
+
+.header{
+    text-align: center;
+}
+
+.row{
+    display: flex;
+}
+
+.label{
+    flex: 1;
+    text-align: right;
+}
+
+.input{
+    flex: 2;
+    margin-left: 10px;
+}
+
+.invalidInput{
+    border: 1.5px solid red;
+    border-radius: 3px;
+}
+.err{
+    color: red;
+}
+
+.btn-group{
+  display: flex;
+  justify-content:center;
+}
+
+.btn{
+    margin: 10px;
+}
+

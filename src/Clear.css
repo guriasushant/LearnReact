@@ -1,0 +1,27 @@
+.form{
+    border: 2px solid rgb(164, 164, 204);
+    border-radius: 10px;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+.err{
+    font-size: medium;
+    color: red;
+}
+
+.invalid{
+    border: 1.5px solid red;
+    border-radius: 3px;
+}
+
+

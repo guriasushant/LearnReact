@@ -1,0 +1,17 @@
+.container{
+    border: 3px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    height: 400px;
+    align-items:center;
+
+}
+
+/* .box{
+    border: 2px solid black;
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    color: white;
+} */
